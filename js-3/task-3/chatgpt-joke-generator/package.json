@@ -1,0 +1,9 @@
+{
+    "name": "chatgpt-joke-generator",
+    "version": "1.0.0",
+    "description": "A package that returns a random JavaScript joke created by ChatGPT.",
+    "main": "index.js",
+    "keywords": ["joke", "generator", "random", "ChatGPT"],
+    "author": "weyko",
+    "license": "MIT"
+}
